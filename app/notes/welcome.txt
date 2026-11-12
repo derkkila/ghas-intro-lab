@@ -1,0 +1,2 @@
+Welcome to the library. Nothing here is secret, which is the point: the /notes
+endpoint lets a caller read files outside this folder.
